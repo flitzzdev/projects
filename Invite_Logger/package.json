@@ -1,0 +1,23 @@
+{
+  "author": "flitzzdev",
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "mongoose": "^5.13.2",
+    "node-fetch": "^2.6.1"
+  },
+  "deprecated": false,
+  "keywords": [
+    "flitzzdev",
+    "flitz",
+    "invite-logger"
+  ],
+  "main": "index.js",
+  "name": "invite-logger",
+  "scripts": {
+    "docs": "jsdoc --configure .jsdoc.json --verbose",
+    "test": "cd ExampleBot && npm i ../ && node ."
+  },
+  "version": "0.0.5",
+  "description": "<div  align=\"center\"> <h1>Flitzzdev</h1> </div>",
+  "license": "ISC"
+}

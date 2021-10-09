@@ -1,0 +1,62 @@
+{
+  "_from": "flitzzdev@latest",
+  "_id": "flitzzdev@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-I2BHKmrm4n9xLYFEznWSvtX2HjUbSxv/RusOfanDXe7W0H7A0y6TdDc4F61X5ibwfmw6f+MHMBxH+5qjVV9E5Q==",
+  "_location": "/flitzzdev",
+  "_phantomChildren": {
+    "@discordjs/form-data": "3.0.1",
+    "@sapphire/async-queue": "1.1.4",
+    "@types/ws": "7.4.7",
+    "node-fetch": "2.6.1",
+    "ow": "0.27.0",
+    "ts-mixer": "6.0.0",
+    "tslib": "2.3.0"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "flitzzdev@latest",
+    "name": "flitzzdev",
+    "escapedName": "flitzzdev",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_shasum": "8db6b957d253178c4fd8f729a7204a72096eeaf8",
+  "_spec": "flitzzdev@latest",
+  "_where": "D:\\A.Development\\discordBots\\codex-nieuw\\codex-nieuw",
+  "author": {
+    "name": "flitzzdev"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "jsdom": "^18.0.0",
+    "mongoose": "^5.13.2",
+    "node-fetch": "^2.6.1"
+  },
+  "deprecated": false,
+  "keywords": [
+    "discord.js",
+    "discord-buttons",
+    "flitzzdev",
+    "flitz",
+    "paginator",
+    "invite-logger",
+    "pagination",
+    "bin"
+  ],
+  "main": "index.js",
+  "name": "flitzzdev",
+  "description": "The package you that need!",
+  "scripts": {
+    "docs": "jsdoc --configure .jsdoc.json --verbose",
+    "test": "cd ExampleBot && npm i ../ && node ."
+  },
+  "version": "0.2.0"
+}
