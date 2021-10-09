@@ -19,5 +19,5 @@ module.exports = {
     remind,
     Pages,
     Capitalize,
-    randomNumber
+    randomNumber 
 };
